@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "usersapi": {
+      "url": "http://localhost:3000/"
+    },
+    "hrmodule": {
+      "url": "http://localhost:3001/"
+    },
+    "productsapi": {
+      "url": "http://localhost:5000/"
+    }
+  }
+}

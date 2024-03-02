@@ -1,0 +1,17 @@
+{
+    "services":{
+        "usersapis":{
+            "url":"http://localhost:3001/",
+            "port":3001,
+            "version":"v1",
+            "status":"active",
+            "apis":[
+                {
+                    "name":"getusers",
+                    "url":"/users",
+                    "method":"get"
+                }
+            ]
+        }
+    }
+}
